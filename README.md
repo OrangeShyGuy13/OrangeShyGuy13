@@ -1,6 +1,6 @@
 # 🐿 Hello there 
 
-## Who am I?
+## ❓ Who am I?
 - I am a Computer Science student at Polish-Japanese Academy of Information Technology 🖥
 - I work at Futures-dev as a software engineer 💼
 - While not working I climb a lot 🏔
